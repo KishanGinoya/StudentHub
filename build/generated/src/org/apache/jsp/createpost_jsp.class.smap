@@ -1,0 +1,14 @@
+SMAP
+createpost_jsp.java
+JSP
+*S JSP
+*F
++ 0 createpost.jsp
+createpost.jsp
+*L
+5,18:44
+23,2:63
+24,7:65
+31:72,3
+32,23:75
+*E
